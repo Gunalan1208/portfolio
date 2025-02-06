@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a83d901.css",
+    "main.js": "/static/js/main.5e70839b.js",
+    "static/media/trainingacademy.png": "/static/media/trainingacademy.6b539f7cfe6fe40da624.png",
+    "static/media/about.png": "/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/E-commerce.png": "/static/media/E-commerce.c249a4dcfb8a6ab59d95.png",
+    "static/media/resume.jpg": "/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/weather.png": "/static/media/weather.c8c940e1a0d33eb9158a.png",
+    "index.html": "/index.html",
+    "main.1a83d901.css.map": "/static/css/main.1a83d901.css.map",
+    "main.5e70839b.js.map": "/static/js/main.5e70839b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a83d901.css",
+    "static/js/main.5e70839b.js"
+  ]
+}
